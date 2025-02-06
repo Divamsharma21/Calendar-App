@@ -7,14 +7,15 @@
 Follow these steps to run the application locally:
 
 ### Prerequisites
-- Node.js (latest LTS recommended)
+- React.js and javascript
+- Css 
 - Git
 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [your-github-repo-link]
-   ```
+   git clone https://github.com/Divamsharma21/Calendar-App
+   
 2. Navigate to the project directory:
    ```bash
    cd calendar-app
